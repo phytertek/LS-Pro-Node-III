@@ -1,0 +1,25 @@
+{
+    "name": "LS-Pro-Node-III",
+    "version": "1.0.0",
+    "description": "Topics:",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phytertek/LS-Pro-Node-III.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/phytertek/LS-Pro-Node-III/issues"
+    },
+    "homepage": "https://github.com/phytertek/LS-Pro-Node-III#readme",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.3"
+    }
+}
